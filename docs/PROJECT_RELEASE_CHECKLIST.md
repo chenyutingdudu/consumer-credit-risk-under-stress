@@ -4,7 +4,6 @@ Use before tagging a release or archiving a frozen copy of results.
 
 ## A. Research artifacts
 
-- [ ] `paper/final_paper_draft.md` matches the reported experiments  
 - [ ] References and notation are consistent  
 - [ ] Hypotheses and limitations match the final analysis  
 
@@ -40,7 +39,6 @@ Use before tagging a release or archiving a frozen copy of results.
 ## E. Documentation
 
 - [ ] `README.md` is accurate for a first-time reader  
-- [ ] `docs/PROJECT_SUMMARY_EN.md` matches the description you want to share  
 
 ## F. Archive (optional)
 
